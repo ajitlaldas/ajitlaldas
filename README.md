@@ -1,7 +1,19 @@
 - 👋 Hi, I’m @ajitlaldas
-- 👀 I’m interested in Java & Android Development
-- 🌱 I’m currently learning Java & Android Development
-- 💞️ I’m looking to collaborate on learning Java & Android Development
+-A hobbyist
+
+-🌱 I’m currently learning:
+- a) ESP family devices and Aurduino using Aurduino IDE.
+- b) Web development (mostly taking help of AI tools)
+- c) KiCad
+- d) TinkerCAD
+  
+- 👀 Past interests:
+-  a) Java & Android Development
+-  b) FPGA (VHDL)
+-  c) AVR 8 bit mCUs
+-  d) C/C++
+- 
+- 💞️ I’m looking to collaborate on any of the above learning goals
 - 📫 How to reach me ajit.nsit@gmail.com
 
 <!---
